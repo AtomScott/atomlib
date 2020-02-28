@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: /core
+      title: utils
+      url: /utils
     output: web
     title: atomlib
   output: web

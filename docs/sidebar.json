@@ -1,6 +1,6 @@
 {
   "atomlib": {
     "Overview": "/",
-    "module name here": "/core"
+    "utils": "/utils"
   }
 }

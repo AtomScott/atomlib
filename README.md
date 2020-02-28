@@ -1,4 +1,19 @@
-# nbdev template
+# atomlib
+> Utility functions and competetive programming tools.
 
-Use this template to more easily create your nbdev project.
 
+## Install
+
+`pip install atomlib`
+
+## How to use
+
+### Utility Funtions
+
+```python
+from atomlib import *
+```
+
+### Competetive programming tools
+
+Just copy and paste
