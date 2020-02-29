@@ -1,6 +1,7 @@
 {
   "atomlib": {
     "Overview": "/",
-    "utils": "/utils"
+    "utils": "/utils",
+    "Competitive Programming Library": "/cp"
   }
 }

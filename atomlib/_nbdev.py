@@ -2,9 +2,14 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"suppress_stdout": "00_utils.ipynb"}
+index = {"suppress_stdout": "00_utils.ipynb",
+         "timing": "00_utils.ipynb",
+         "browse_images": "00_utils.ipynb",
+         "multinomial_coefficients": "01_cp.ipynb",
+         "multinomial_combinations": "01_cp.ipynb"}
 
-modules = ["utils.py"]
+modules = ["utils.py",
+           "cp.py"]
 
 doc_url = "https://atomscott.github.io/atomlib/"
 
