@@ -4,7 +4,10 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"suppress_stdout": "00_utils.ipynb",
          "timing": "00_utils.ipynb",
+         "timefn": "00_utils.ipynb",
          "browse_images": "00_utils.ipynb",
+         "binomial_coefficients": "01_cp.ipynb",
+         "memo": "01_cp.ipynb",
          "multinomial_coefficients": "01_cp.ipynb",
          "multinomial_combinations": "01_cp.ipynb"}
 
